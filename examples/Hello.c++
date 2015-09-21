@@ -21,7 +21,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
 
-% g++  -pedantic -std=c++11 -Wall Hello.c++ -o Hello
+% g++ -pedantic -std=c++11 -Wall Hello.c++ -o Hello
 % Hello
 Nothing to be done.
 */
