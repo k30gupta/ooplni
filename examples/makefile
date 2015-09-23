@@ -3,7 +3,13 @@ FILES :=              \
     UnitTests3        \
     Coverage1         \
     Coverage2         \
-    Coverage3
+    Coverage3         \
+    Exceptions        \
+    Exceptions2       \
+    Exceptions3       \
+    Types             \
+    Operators         \
+    Representations
 
 CXX        := g++-4.8
 CXXFLAGS   := -pedantic -std=c++11 -Wall
