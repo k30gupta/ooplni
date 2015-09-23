@@ -37,6 +37,8 @@ pull:
     --include "IsPrime1.h"                  \
     --include "IsPrime2.c++"                \
     --include "IsPrime2.h"                  \
+    --include "StrCmp.c++"                  \
+    --include "StrCmp.h"                    \
     --exclude "*"                           \
     ../../../exercises/c++/ exercises
 
